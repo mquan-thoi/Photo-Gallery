@@ -1,0 +1,12 @@
+@media (min-width: 600px) {
+    div {
+        width: 45%;
+        margin: 2%;
+    }
+
+    img {
+        width: 100%;
+        border-radius: 10px;
+    }
+}
+
